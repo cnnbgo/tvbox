@@ -9,6 +9,10 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 （2）x.txt  18+源；
 接口地址：https://raw.githubusercontent.com/cnnbgo/tvbox/main/x.txt
 
+以上接口地址在墙内请开启tvbox内置安全DNS方可食用
+
+
+
 
 
 2. TVBox各路大佬配置（排名不分先后）：
