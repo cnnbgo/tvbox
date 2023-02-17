@@ -28,7 +28,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
-	"ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/创艺影视.json"
+	"ext": "./json/创艺影视.json"
 }, {
 	"key": "闪电资源",
 	"name": "闪电资源",
@@ -72,7 +72,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
-	"ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/奈菲影院.json"
+	"ext": "./json/奈菲影院.json"
 }, {
 	"key": "csp_xpath_meiju56",
 	"name": "美剧网(XPF)",
@@ -81,7 +81,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
-	"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/meiju562.json"
+	"ext": "./json/meiju562.json"
 }, {
 	"key": "csp_xml_红牛资源",
 	"name": "🐝红牛资源",
@@ -141,7 +141,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 0,
-	"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/爱看.json",
+	"ext": "./json/爱看.json",
     "jar": "./jar/csp_xBPQ.jar"
 }, {
 	"key": "csp_Bttoo",
@@ -177,7 +177,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 0,
-	"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/555.json",
+	"ext": "./json/555.json",
     "jar": "./jar/555.jar"
 }, {
 	"key": "XBPQ_fant",
@@ -187,7 +187,7 @@
 	"filterable": 1,
 	"quickSearch": 1,
 	"searchable": 1,
-	"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/饭团.json",
+	"ext": "./json/饭团.json",
     "jar": "./jar/csp_fantuan.jar"
 }, {
 	"key": "csp_Cokemv",
@@ -207,7 +207,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
-	"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/789.json"
+	"ext": "./json/789.json"
 }, {
 	"key": "csp_XBPQ_真不卡",
 	"name": "️💢真不卡(XB)",
@@ -216,7 +216,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 0,
-	"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/真不卡.json",
+	"ext": "./json/真不卡.json",
     "jar": "./jar/csp_ZBK.jar"
 }, {
 	"key": "csp_XBiu口袋影院",
