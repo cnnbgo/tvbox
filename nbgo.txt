@@ -1,7 +1,6 @@
 {
 
-"spider":"./1.jar", 
-//"spider":"http://192.168.1.18/top98_1.jar",
+"spider":"./jar/1.jar", 
 
 "sites":[
 
@@ -111,7 +110,7 @@
 	"quickSearch": 1,
 	"filterable": 0,
 	"ext": "https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html",
-	"jar": "http://home.jundie.top:81/jar/top98_1.jar"
+	"jar": "./jar/top98_1.jar"
 }, {
 	"key": "csp_xb_cokemv",
 	"name": "cokemv(XBiu)",
@@ -121,7 +120,7 @@
 	"quickSearch": 1,
 	"filterable": 0,
 	"ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html",
-	"jar": "http://home.jundie.top:81/jar/top98_1.jar"
+	"jar": "./jar/top98_1.jar"
 },
 
 //来自一木
@@ -133,7 +132,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
-	"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E6%96%B0%E8%A7%86%E8%A7%89.jar"
+	"jar": "./jar/csp_Xinsj.jar"
 }, {
 	"key": "csp_xBPQ_爱看影视",
 	"name": "💖爱看影视〔SP〕",
@@ -143,7 +142,7 @@
 	"quickSearch": 1,
 	"filterable": 0,
 	"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/爱看.json",
-    "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%9B%B4%E6%92%ADjar/%E7%9B%B4%E6%92%AD.jar"
+    "jar": "./jar/csp_xBPQ.jar"
 }, {
 	"key": "csp_Bttoo",
 	"name": "✌两个BT〔SP〕",
@@ -152,7 +151,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
-    "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%9B%B4%E6%92%ADjar/%E7%9B%B4%E6%92%AD.jar"
+    "jar": "./jar/csp_xBPQ.jar"
 }, {
 	"key": "csp_77",
 	"name": "👒酷云七七〔SP〕",
@@ -161,7 +160,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
-    "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%9B%B4%E6%92%ADjar/%E7%9B%B4%E6%92%AD.jar"
+    "jar": "./jar/csp_xBPQ.jar"
 }, {
 	"key": "csp_Kuaikan",
 	"name": "👀快看〔SP〕",
@@ -179,7 +178,7 @@
 	"quickSearch": 1,
 	"filterable": 0,
 	"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/555.json",
-	"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/555%E5%BD%B1%E8%A7%86.jar"
+    "jar": "./jar/555.jar"
 }, {
 	"key": "XBPQ_fant",
 	"name": "🍙饭团〔SP〕",
@@ -189,7 +188,7 @@
 	"quickSearch": 1,
 	"searchable": 1,
 	"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/饭团.json",
-	"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E9%A5%AD%E5%9B%A2%E5%BD%B1%E8%A7%86.jar"
+    "jar": "./jar/csp_fantuan.jar"
 }, {
 	"key": "csp_Cokemv",
 	"name": "🐼cokemv影视〔SP〕",
@@ -199,8 +198,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
-	"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/cokemv%E5%BD%B1%E8%A7%86.jar"
-
+    "jar": "./jar/csp_Cokemv.jar"
 }, {
 	"key": "csp_xp_789kp",
 	"name": "💢789 看片〔XB〕",
@@ -219,7 +217,7 @@
 	"quickSearch": 1,
 	"filterable": 0,
 	"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/真不卡.json",
-	"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/%E7%9C%9F%E4%B8%8D%E5%8D%A1.jar"
+    "jar": "./jar/csp_ZBK.jar"
 }, {
 	"key": "csp_XBiu口袋影院",
 	"name": "💢口袋影视(XB)",
@@ -260,6 +258,9 @@
 {"name":"️️ckmov","type":0,"url":"http://www.ckmov.vip/api.php?url="},
 {"name":"8090解析","type":0,"url":"https://www.8090g.cn/?url="},
 {"name":"刚刚走过2","type":0,"url":"https://play.fuqizhishi.com/xiaobai/API.php?appkey=ganggang&url="},
+  
+{"name":"刚刚走过3","type":0,"url":"https://vip.fuqizhishi.com/?v="},
+
 {"name":"️OKjx解析2","type":0,"url":"https://okjx.cc/?url="},
 {"name":"m3u8解析2","type":0,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="},
 {"name":"nxflv解析2","type":0,"url":"https://www.nxflv.com/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺","sohu","letv"]}},
