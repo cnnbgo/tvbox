@@ -6,6 +6,8 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 （2）x.txt  18+源；
 接口地址：https://raw.githubusercontent.com/cnnbgo/tvbox/main/x.txt
 
+直播福利源内容来自大佬
+https://github.com/YanG-1989/
 
 如果喜欢，请复刻自用，切勿传播。谢谢！
 
