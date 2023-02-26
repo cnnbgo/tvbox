@@ -1,7 +1,7 @@
 tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
 
-（1）1.txt 和nbgo.txt 自用整理源；
-接口地址：https://raw.githubusercontent.com/cnnbgo/tvbox/main/nbgo.txt
+（1）1.txt 和2.txt 自用整理源；
+接口地址：https://raw.githubusercontent.com/cnnbgo/tvbox/main/2.txt
 
 （2）x.txt  18+源；
 接口地址：https://raw.githubusercontent.com/cnnbgo/tvbox/main/x.txt
