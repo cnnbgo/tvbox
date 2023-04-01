@@ -1,0 +1,81 @@
+{
+    "title": "",
+    "author": "",
+    "UserAgent":"",
+    "firstpage": "1",
+    "homeContent": "1",
+    "class_url": "https://www.zhuafan.tech/sports-home/category/{cateId}",
+    "class_name": "全部&足球&篮球&羽乒&台球&棒球&户外&搏击&综合&棋盘&电竞&网球&排球&聊天&原声",
+    "class_value": "all&Football&Basketball&Badminton&Billiards&Baseball&Outdoors&Wrestling&Others&Boardgame&Popular&Tennis&Volleyball&Chat&Acoustic",
+    "filterdata":{},
+    "cat_mode": "0",
+    
+    //分类json列表数组定位，最多支持3层，能力有限，不是所有页面都能支持
+    "catjsonlist": "data",
+    //分类json片单图片
+    "catjsonpic": "imageUrl",
+    //分类json片单标题
+    "catjsonname": "cname",
+    //分类json片单链接
+    "catjsonid": "id",
+    //分类json片单副标题
+    "catjsonstitle":"uname",
+    "cat_prefix": "https://www.zhuafan.tech/",
+    "cat_suffix": "",
+
+
+    "search_url": "https://www.zhuafan.tech/live-search/search/query/data?keyword={wd}&page=1&num=&searchType=all&uid=null&from=pc",//搜索网址
+    "search_mode": "0",//搜索模式，0是json格式，1是网页截取
+    "jsonlist": "uObj.uList",
+    "jsonpic": "imageUrl",
+    "jsonname": "cname",
+    "jsonid": "url",
+    "jsonstitle":"",
+    "sea_YN_twice": "0",//是否二次截取
+    "sea_twice_pre": "",//截取前
+    "sea_twice_suf": "",//截取后
+    "sea_arr_pre": "",//数组前
+    "sea_arr_suf": "",//数组后
+    "sea_pic": "",//图片
+    "sea_title": "",//标题
+    "sea_url": "",//地址
+    "search_prefix": "https://www.zhuafan.tech/",//地址前缀
+    "search_suffix": "",//地址后缀
+    "sea_subtitle": "空",//副标题
+
+
+    "force_play": "1",
+    "play_prefix": "空",
+    "play_suffix": "空",
+    "play_header": "空",
+
+    "proj_actor": "",//演员
+    "proj_plot": "",//简介
+    "tab_YN_twice": "0",
+    "tab_twice_pre": "",
+    "tab_twice_suf": "",
+    "tab_arr_pre": "",//线路前
+    "tab_arr_suf": "",//线路后
+    "tab_title": "",//线路名字
+
+    "list_YN_twice": "0",
+    "list_twice_pre": "",
+    "list_twice_suf": "",
+    "list_arr_pre": "[",//播放列表前
+    "list_arr_suf": "]",//播放列表后
+
+    "epi_YN_twice": "0",
+    "epi_twice_pre": "空",
+    "epi_twice_suf": "空",
+    "epi_arr_pre": "{",
+    "epi_arr_suf": "}",
+    "epi_title": "uname\":\"&&\"",
+    "epi_url": "id\":\"&&\"",
+    "epiurl_prefix": "https://www.zhuafan.tech/",
+    "epiurl_suffix": "",
+    "Anal_MacPlayer":"0",
+    "ManualSniffer":"0",
+    //手动嗅探视频链接关键字，每个用#隔开
+    "VideoFormat":".mp4#.m3u8#.flv#item/video#is_play_url=1"
+    
+}
