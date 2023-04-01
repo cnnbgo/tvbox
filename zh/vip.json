@@ -6,105 +6,105 @@
 "sites":[
 
 
-{"key":"csp_xBPQ_天天综合","name":"天天综合","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/天天综合.json"},
+{"key":"csp_xBPQ_天天综合","name":"天天综合","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/天天综合.json"},
 
-{"key":"csp_xBPQ_天天直播","name":"天天直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/天天直播.json"},
+{"key":"csp_xBPQ_天天直播","name":"天天直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/天天直播.json"},
 
 {"key":"csp_xBPQ_新香蕉中文字幕","name":"新香蕉中文字幕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/新香蕉中文字幕.json"},
+"ext":"./xBPQ/新香蕉中文字幕.json"},
 
 {"key":"csp_xBPQ_新香蕉久久热","name":"新香蕉久久热","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/新香蕉久久热.json"},
+"ext":"./xBPQ/新香蕉久久热.json"},
 
 {"key":"csp_xBPQ_新香蕉废柴网","name":"新香蕉废柴网","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/新香蕉废柴网.json"},
+"ext":"./xBPQ/新香蕉废柴网.json"},
 
 {"key":"csp_xBPQ_新香蕉国产传媒","name":"新香蕉国产传媒","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/新香蕉国产传媒.json"},
+"ext":"./xBPQ/新香蕉国产传媒.json"},
 
 {"key":"csp_xBPQ_新香蕉超清资源","name":"新香蕉超清资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/新香蕉超清资源.json"},
+"ext":"./xBPQ/新香蕉超清资源.json"},
 
 {"key":"csp_xBPQ_新香蕉麻豆女优","name":"新香蕉麻豆女优","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/新香蕉麻豆女优.json"},
+"ext":"./xBPQ/新香蕉麻豆女优.json"},
 
 {"key":"csp_xBPQ_新香蕉实时直播","name":"新香蕉实时直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/新香蕉实时直播.json"},
+"ext":"./xBPQ/新香蕉实时直播.json"},
 
 {"key":"csp_xBPQ_新香蕉AV解说","name":"新香蕉AV解说","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/新香蕉AV解说.json"},
+"ext":"./xBPQ/新香蕉AV解说.json"},
 
 {"key":"csp_xBPQ_聚优直播","name":"聚优直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/聚优直播.json"},
+"ext":"./xBPQ/聚优直播.json"},
 
 {"key":"csp_xBPQ_实时直播","name":"实时直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/实时直播.json"},
+"ext":"./xBPQ/实时直播.json"},
 
-{"key":"csp_xBPQ_叫床吧","name":"叫床吧️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/叫床吧.json"},
+{"key":"csp_xBPQ_叫床吧","name":"叫床吧️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/叫床吧.json"},
 
-{"key":"csp_xBPQ_黄瓜TV","name":"黄瓜TV️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/黄瓜TV.json"},
+{"key":"csp_xBPQ_黄瓜TV","name":"黄瓜TV️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/黄瓜TV.json"},
 
-{"key":"csp_xBPQ_banan","name":"banan","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/banan.json"},
+{"key":"csp_xBPQ_banan","name":"banan","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/banan.json"},
 
 {"key":"csp_xBPQ_西瓜影视","name":"西瓜影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/西瓜影视.json"},
+"ext":"./xBPQ/西瓜影视.json"},
 
-{"key":"csp_xBPQ-爱看影院","name":"爱看影院️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/爱看影院.json"},
+{"key":"csp_xBPQ-爱看影院","name":"爱看影院️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/爱看影院.json"},
 
-{"key":"csp_xBPQ-四虎影院","name":"四虎影院️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/四虎影院.json"},
+{"key":"csp_xBPQ-四虎影院","name":"四虎影院️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/四虎影院.json"},
 
 
 {"key":"csp_xBPQ_GAOAA","name":"GAOAA","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/GAOAA.json"},
+"ext":"./xBPQ/GAOAA.json"},
 
-{"key":"csp_xBPQ_麻豆映画","name":"麻豆映画","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/麻豆映画.json"},
+{"key":"csp_xBPQ_麻豆映画","name":"麻豆映画","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/麻豆映画.json"},
 
-{"key":"csp_xBPQ_AVideo","name":"AVideo","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/AVideo.json"},
+{"key":"csp_xBPQ_AVideo","name":"AVideo","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/AVideo.json"},
 
-{"key":"csp_xBPQ_黄仓库","name":"黄仓库","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/黄仓库.json"},
+{"key":"csp_xBPQ_黄仓库","name":"黄仓库","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/黄仓库.json"},
 
-{"key":"csp_xBPQ_香蕉视频","name":"香蕉视频","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/香蕉视频.json"},
+{"key":"csp_xBPQ_香蕉视频","name":"香蕉视频","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/香蕉视频.json"},
 
-{"key":"csp_xBPQ_性欲轮回","name":"性欲轮回","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/性欲轮回.json"},
+{"key":"csp_xBPQ_性欲轮回","name":"性欲轮回","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/性欲轮回.json"},
 
-{"key":"csp_xBPQ_性欲轮回[分类]","name":"性欲轮回[分类]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/性欲轮回[分类].json"},
+{"key":"csp_xBPQ_性欲轮回[分类]","name":"性欲轮回[分类]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/性欲轮回[分类].json"},
 
-{"key":"csp_xBPQ_右手影院","name":"右手影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/右手影院.json"},
+{"key":"csp_xBPQ_右手影院","name":"右手影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/右手影院.json"},
 
 {
 "key":"drpy_js_猫了个咪",
 "name":"猫了个咪[DRPY18]",
 "type":3,
-"api":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/lib/drpy.min.js",
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/js/猫了个咪.js"
+"api":"./JS/lib/drpy.min.js",
+"ext":"./JS/js/猫了个咪.js"
 },
 {
 "key":"drpy_js_吸瓜",
 "name":"吸瓜[DRPY18]",
 "type":3,
-"api":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/lib/drpy.min.js",
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/js/吸瓜.js"
+"api":"./JS/lib/drpy.min.js",
+"ext":"./JS/js/吸瓜.js"
 },
 {
 "key":"drpy_js_黄瓜TV",
 "name":"黄瓜TV[DRPY18]",
 "type":3,
-"api":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/lib/drpy.min.js",
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/js/黄瓜TV.js"
+"api":"./JS/lib/drpy.min.js",
+"ext":"./JS/js/黄瓜TV.js"
 },
 {
 "key":"drpy_js_banan",
 "name":"banan[DRPY18]",
 "type":3,
-"api":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/lib/drpy.min.js",
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/js/banan.js"
+"api":"./JS/lib/drpy.min.js",
+"ext":"./JS/js/banan.js"
 },
 {
 "key":"drpy_js_18av",
 "name":"18av[DRPY18]",
 "type":3,
-"api":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/lib/drpy.min.js",
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/js/18av.js"
+"api":"./JS/lib/drpy.min.js",
+"ext":"./JS/js/18av.js"
 },
 
 
@@ -154,7 +154,7 @@
 {"key":"影库资源-伦理","name":"影库资源-伦理","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"酷伦理","name":"酷伦理-伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"博天堂","name":"博天堂-伦理","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JAR/cs.jar"}
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"./JAR/cs.jar"}
 ],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
