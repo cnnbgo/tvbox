@@ -7,11 +7,5 @@ http://111.48.16.199/PLTV/88888888/224/3221226016/991800010000000600000000000001
 http://111.48.16.199/PLTV/88888888/224/3221226032/99180001000000060000000000000328_mdn_1.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="湖北综合HD" tvg-logo="https://live.fanmingming.cn/tv/湖北综合HD.png",湖北综合HD
 http://111.48.16.199/PLTV/88888888/224/3221226033/99180001000000060000000000000329_mdn_1.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="湖北公共HD" tvg-logo="https://live.fanmingming.cn/tv/湖北公共HD.png",湖北公共HD
-http://111.48.16.199/PLTV/88888888/224/3221226031/99180001000000060000000000000327.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="湖北影视HD" tvg-logo="https://live.fanmingming.cn/tv/湖北影视HD.png",湖北影视HD
-http://111.48.16.199/PLTV/88888888/224/3221226280/99180001000000060000000000000509.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="湖北教育HD" tvg-logo="https://live.fanmingming.cn/tv/湖北教育HD.png",湖北教育HD
 http://111.48.16.199/PLTV/88888888/224/3221226281/99180001000000060000000000000510.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="湖北生活HD" tvg-logo="https://live.fanmingming.cn/tv/湖北生活HD.png",湖北生活HD
-http://111.48.16.199/PLTV/88888888/224/3221226282/99180001000000060000000000000508.smil/index.m3u8?fmt=ts2hls
