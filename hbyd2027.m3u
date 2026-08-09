@@ -1,0 +1,17 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="湖北垄上HD" tvg-logo="https://live.fanmingming.cn/tv/湖北垄上HD.png",湖北垄上HD
+http://111.48.16.199/PLTV/88888888/224/3221226034/99180001000000060000000000000330.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="湖北卫视HD" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视HD.png",湖北卫视HD
+http://111.48.16.199/PLTV/88888888/224/3221226016/99180001000000060000000000000194.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="湖北经视HD" tvg-logo="https://live.fanmingming.cn/tv/湖北经视HD.png",湖北经视HD
+http://111.48.16.199/PLTV/88888888/224/3221226032/99180001000000060000000000000328_mdn_1.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="湖北综合HD" tvg-logo="https://live.fanmingming.cn/tv/湖北综合HD.png",湖北综合HD
+http://111.48.16.199/PLTV/88888888/224/3221226033/99180001000000060000000000000329_mdn_1.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="湖北公共HD" tvg-logo="https://live.fanmingming.cn/tv/湖北公共HD.png",湖北公共HD
+http://111.48.16.199/PLTV/88888888/224/3221226031/99180001000000060000000000000327.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="湖北影视HD" tvg-logo="https://live.fanmingming.cn/tv/湖北影视HD.png",湖北影视HD
+http://111.48.16.199/PLTV/88888888/224/3221226280/99180001000000060000000000000509.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="湖北教育HD" tvg-logo="https://live.fanmingming.cn/tv/湖北教育HD.png",湖北教育HD
+http://111.48.16.199/PLTV/88888888/224/3221226281/99180001000000060000000000000510.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="湖北生活HD" tvg-logo="https://live.fanmingming.cn/tv/湖北生活HD.png",湖北生活HD
+http://111.48.16.199/PLTV/88888888/224/3221226282/99180001000000060000000000000508.smil/index.m3u8?fmt=ts2hls
